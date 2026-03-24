@@ -13,7 +13,7 @@ nsh lives in your terminal. It records command history, understands your project
 ```
 
 nsh prefills commands at your prompt for review before execution. It never runs anything blindly (unless you enable autorun mode).
-
+Add nsh wraps
 ---
 
 ## How it works
